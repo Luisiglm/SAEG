@@ -1,3 +1,23 @@
+# Graph Models for Synthetic Lethality
+
+# Luis F. Iglesias-Martinez, PhD
+# Systems Biology Ireland, University College Dublin, Dublin, Ireland.
+#
+# Copyright 2024 
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You can see a copy of the license in the link below.
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Software distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations.
+
+
+
 import torch
 
 
