@@ -1,4 +1,4 @@
-# Graph Models for Synthetic Lethality
+# Graph Models for Somatic Alterations
 
 # Luis F. Iglesias-Martinez, PhD
 # Systems Biology Ireland, University College Dublin, Dublin, Ireland.
